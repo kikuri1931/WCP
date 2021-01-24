@@ -1,0 +1,11 @@
+package exercise1;
+
+public class Practice1_3 {
+	public static void main(String[] args) {
+		boolean bool = true;
+		char ChineseCharacters = '駆';
+		double pie = 3.14;
+		long figure = 314159265853979L;
+		String attack = "ミナトの攻撃！敵に15ポイントのダメージを与えた。";
+	}
+}
