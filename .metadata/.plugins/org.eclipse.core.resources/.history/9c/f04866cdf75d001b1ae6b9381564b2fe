@@ -1,0 +1,7 @@
+package exercise1;
+
+public class Code1_1 {
+	public static void main(String[] args) {
+		System.out.println("RPG:スッキリわかる魔王討伐！");
+	}
+}
