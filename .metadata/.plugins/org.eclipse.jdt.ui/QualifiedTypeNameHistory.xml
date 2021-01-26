@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="classMethod.ClassMethod03"/>
+    <fullyQualifiedTypeName name="classMethod.human.Human04"/>
+    <fullyQualifiedTypeName name="practice.Car"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="extend.human.Employee"/>
+    <fullyQualifiedTypeName name="extend.human.Human"/>
+    <fullyQualifiedTypeName name="extend.human.Student"/>
+    <fullyQualifiedTypeName name="extend.animal.Dog"/>
+    <fullyQualifiedTypeName name="extend.phone.Camera"/>
+    <fullyQualifiedTypeName name="extend.phone.MobilePhone"/>
+    <fullyQualifiedTypeName name="extend.phone.Phone"/>
+    <fullyQualifiedTypeName name="polymorphism.human.Employee"/>
+    <fullyQualifiedTypeName name="polymorphism.human.Human"/>
+    <fullyQualifiedTypeName name="polymorphism.human.Student"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="unitTest.Calculator"/>
+    <fullyQualifiedTypeName name="org.mockito.junit.jupiter.MockitoExtension"/>
+    <fullyQualifiedTypeName name="org.mockito.InjectMocks"/>
+</qualifiedTypeNameHistroy>
