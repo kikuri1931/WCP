@@ -1,0 +1,10 @@
+package exercise2;
+
+public class Practice2_2 {
+	public static void main(String[] args) {
+		System.out.println("ようこそ占いの館へ");
+		String name = new java.util.Scanner(System.in).nextLine();
+
+		System.out.println("あなたの年齢を入力してください");
+	}
+}
