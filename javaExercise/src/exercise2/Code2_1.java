@@ -7,6 +7,6 @@ public class Code2_1 {
 		a = 20;
 		b = a + 5;
 		System.out.println(a);
-		System.out.println(b);
+		System.out.println(b + 1);
 	}
 }
